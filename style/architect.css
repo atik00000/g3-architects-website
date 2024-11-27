@@ -211,10 +211,10 @@ margin: auto;
  text-align: center;
    background-color: #f5ca98; /* Fire color  effects*/
   color: #fff;
-  box-shadow: 0 0 20px 5px rgb(245, 209, 154), 
+  box-shadow:  0 0 20px 5px rgb(245, 209, 154), 
               0 0 20px 5px rgba(0, 0, 0, 0.6), 
               0 0 20px 5px rgba(0, 0, 0, 0.4);
-  text-shadow: 0 0 5px #f3f3f3, 
+  text-shadow: solid  0 0 5px #f3f3f3, 
                0 0 10px #ddd8d8, 
                0 0 15px #fcf9f9;
 }
