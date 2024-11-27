@@ -204,15 +204,16 @@ margin-top: 5px;
 .footer{
 margin: auto;
  margin-top: 200px;
+ margin-bottom: 30px;
  width: 50%;
  background:#fff4e7 ;
  padding: 10px;
  text-align: center;
-   background-color: #ff900e; /* Fire color  effects*/
+   background-color: #f5ca98; /* Fire color  effects*/
   color: #fff;
-  box-shadow: 0 0 20px 5px rgb(255, 153, 0), 
-              0 0 30px 10px rgba(4, 7, 221, 0.6), 
-              0 0 40px 15px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 20px 5px rgb(245, 209, 154), 
+              0 0 20px 5px rgba(0, 0, 0, 0.6), 
+              0 0 20px 5px rgba(0, 0, 0, 0.4);
   text-shadow: 0 0 5px #f3f3f3, 
                0 0 10px #ddd8d8, 
                0 0 15px #fcf9f9;
